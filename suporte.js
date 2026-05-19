@@ -1,4 +1,4 @@
-fetch('https://SEUUSUARIO.github.io/moodle-central-atendimento/dados.json')
+fetch('https://neadnacional.github.io/assets/suporte.js')
 .then(response => response.json())
 .then(data => {
 
