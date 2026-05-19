@@ -6,7 +6,17 @@ const container = document.getElementById('central-atendimento');
 
 let options = `<option value="">Selecione sua instituição</option>`;
 
-Object.keys(data).forEach(key => {
+/* ORDENA ALFABETICAMENTE */
+
+Object.keys(data)
+
+.sort((a, b) => {
+
+return data[a].nome.localeCompare(data[b].nome, 'pt-BR');
+
+})
+
+.forEach(key => {
 
 options += `
 <option value="${key}">
@@ -41,6 +51,18 @@ document
 mostrarIES(this.value);
 
 });
+
+})
+
+.catch(error => {
+
+console.error('Erro ao carregar JSON:', error);
+
+document.getElementById('central-atendimento').innerHTML = `
+<p>
+Erro ao carregar os dados de atendimento.
+</p>
+`;
 
 });
 
