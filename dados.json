@@ -1,7 +1,7 @@
 {
   "kennedy": {
     "nome": "Faculdade Kennedy",
-    "logo": "https://neadnacional.github.io/assets/dados.json",
+    "logo": ""https://neadnacional.github.io/assets/logos/kennedy.png"",
     "responsavel": "Danilo Eustáquio",
     "email": "eadpradobh@somospromove.com.br",
     "telefone": "31984970691"
@@ -9,7 +9,7 @@
 
   "novafaculdade": {
     "nome": "Nova Faculdade",
-    "logo": "https://neadnacional.github.io/assets/dados.json",
+    "logo": ""https://neadnacional.github.io/assets/logos/novafaculdade.png"",
     "responsavel": "Danilo Eustáquio",
     "email": "eadpradobh@somospromove.com.br",
     "telefone": "31984970691"
