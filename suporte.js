@@ -1,4 +1,4 @@
-fetch('https://neadnacional.github.io/assets/suporte.js')
+fetch('fetch('https://neadnacional.github.io/assets/dados.json')
 .then(response => response.json())
 .then(data => {
 
