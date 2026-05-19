@@ -13,5 +13,117 @@
     "responsavel": "Danilo Eustáquio",
     "email": "eadpradobh@somospromove.com.br",
     "telefone": "31984970691"
+  },
+
+  "fibra": {
+    "nome": "Fibra",
+    "logo": "https://neadnacional.github.io/assets/logos/fibra.png",
+    "responsavel": "Kezzia Grion",
+    "email": "kezzia.grion@fibra.edu.br",
+    "telefone": "62992650632"
+  },
+
+  "unisantanna": {
+    "nome": "UniSant’Anna",
+    "logo": "https://neadnacional.github.io/assets/logos/unisantanna.png",
+    "responsavel": "Moisés Cabrera",
+    "email": "eadsaopaulosp@unisantanna.br",
+    "telefone": "11971783642"
+  },
+
+  "santaursula": {
+    "nome": "Santa Úrsula",
+    "logo": "https://neadnacional.github.io/assets/logos/santaursula.png",
+    "responsavel": "Juliana Aroeira",
+    "email": "nead@usu.edu.br",
+    "telefone": ""
+  },
+
+  "finom": {
+    "nome": "Finom",
+    "logo": "https://neadnacional.github.io/assets/logos/finom.png",
+    "responsavel": "Edneya Gomes",
+    "email": "nead@finom.edu.br",
+    "telefone": "38992161093"
+  },
+
+  "cescage": {
+    "nome": "Cescage",
+    "logo": "https://neadnacional.github.io/assets/logos/cescage.png",
+    "responsavel": "Rosa Hoffmann",
+    "email": "coordenacao.nead@cescage.edu.br",
+    "telefone": "42999730124"
+  },
+
+  "funam": {
+    "nome": "Funam",
+    "logo": "https://neadnacional.github.io/assets/logos/funam.png",
+    "responsavel": "Letícia Hosina",
+    "email": "nead@funorte.edu.br",
+    "telefone": "38988385607"
+  },
+
+  "fasi": {
+    "nome": "Fasi",
+    "logo": "https://neadnacional.github.io/assets/logos/fasi.png",
+    "responsavel": "Letícia Hosina",
+    "email": "nead@funorte.edu.br",
+    "telefone": "38988385607"
+  },
+
+  "funorte": {
+    "nome": "Funorte",
+    "logo": "https://neadnacional.github.io/assets/logos/funorte.png",
+    "responsavel": "Letícia Hosina",
+    "email": "nead@funorte.edu.br",
+    "telefone": "38988385607"
+  },
+
+  "icesp": {
+    "nome": "Icesp",
+    "logo": "https://neadnacional.github.io/assets/logos/icesp.png",
+    "responsavel": "Ivana Tavares",
+    "email": "eadbrasiliadf@icesp.edu.br",
+    "telefone": "61986139804"
+  },
+
+  "promovesetelagoas": {
+    "nome": "Promove Sete Lagoas",
+    "logo": "https://neadnacional.github.io/assets/logos/promovesetelagoas.png",
+    "responsavel": "Edvania Menezes",
+    "email": "nead.curvelo@somospromove.com.br",
+    "telefone": "3897310309"
+  },
+
+  "facic": {
+    "nome": "Facic",
+    "logo": "https://neadnacional.github.io/assets/logos/facic.png",
+    "responsavel": "Edvania Menezes",
+    "email": "nead.curvelo@somospromove.com.br",
+    "telefone": "3897310309"
+  },
+
+  "unidesc": {
+    "nome": "Unidesc",
+    "logo": "https://neadnacional.github.io/assets/logos/unidesc.png",
+    "responsavel": "Jorge Clauss",
+    "email": "ead.unidesc@unidesc.edu.br",
+    "telefone": "61999570081"
+  },
+
+  "castelobranco": {
+    "nome": "Castelo Branco",
+    "logo": "https://neadnacional.github.io/assets/logos/castelobranco.png",
+    "responsavel": "Ricardo Vieira",
+    "email": "nead@fcb.edu.br",
+    "telefone": "27998026675"
+  },
+
+  "novomilenio": {
+    "nome": "Faculdade Novo Milênio",
+    "logo": "https://neadnacional.github.io/assets/logos/novomilenio.png",
+    "responsavel": "Felipe Ferreira",
+    "email": "eadvilavelhaes@unisantanna.br",
+    "telefone": "27995242655"
   }
 }
