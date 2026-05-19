@@ -1,0 +1,17 @@
+{
+  "kennedy": {
+    "nome": "Faculdade Kennedy",
+    "logo": "https://SEUUSUARIO.github.io/moodle-central-atendimento/logos/kennedy.png",
+    "responsavel": "Danilo Eustáquio",
+    "email": "eadpradobh@somospromove.com.br",
+    "telefone": "31984970691"
+  },
+
+  "novafaculdade": {
+    "nome": "Nova Faculdade",
+    "logo": "https://SEUUSUARIO.github.io/moodle-central-atendimento/logos/novafaculdade.png",
+    "responsavel": "Danilo Eustáquio",
+    "email": "eadpradobh@somospromove.com.br",
+    "telefone": "31984970691"
+  }
+}
