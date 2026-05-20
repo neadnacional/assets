@@ -1,0 +1,94 @@
+.banner-moodle{
+
+display:flex;
+
+align-items:center;
+justify-content:space-between;
+
+gap:24px;
+
+padding:32px;
+
+border-radius:24px;
+
+background:linear-gradient(
+90deg,
+#08083a 0%,
+#030b79 100%
+);
+
+overflow:hidden;
+
+}
+
+/* TEXTO */
+
+.banner-texto{
+
+color:white;
+
+font-weight:700;
+
+font-size:clamp(28px, 5vw, 96px);
+
+line-height:0.95;
+
+text-align:left;
+
+flex:1;
+
+word-break:break-word;
+
+}
+
+/* ÍCONE */
+
+.banner-icone{
+
+flex-shrink:0;
+
+display:flex;
+align-items:center;
+justify-content:center;
+
+}
+
+.banner-icone img{
+
+width:clamp(80px, 14vw, 260px);
+
+height:auto;
+
+display:block;
+
+opacity:0.95;
+
+}
+
+/* MOBILE */
+
+@media (max-width:768px){
+
+.banner-moodle{
+
+padding:24px;
+
+gap:16px;
+
+}
+
+.banner-texto{
+
+font-size:clamp(24px, 8vw, 48px);
+
+line-height:1;
+
+}
+
+.banner-icone img{
+
+width:90px;
+
+}
+
+}
