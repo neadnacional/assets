@@ -34,14 +34,18 @@ function perguntar(){
     if(pergunta === ""){
 
         document.getElementById('resposta').innerHTML = `
+
         <div style="
         background:#fff8e6;
         border-left:4px solid #ffb300;
         border-radius:8px;
         padding:12px 16px;
         ">
+
         ⚠️ Digite uma pergunta para continuar.
+
         </div>
+
         `;
 
         return;
@@ -98,26 +102,55 @@ function perguntar(){
         margin:16px 0;
         ">
 
-        <strong>📚 Dúvidas sobre o conteúdo da disciplina?</strong><br>
+            <strong>📚 Dúvidas sobre o conteúdo da disciplina?</strong><br>
 
-        Converse diretamente com seu tutor no bloco
-        <strong>Central da Disciplina</strong>.
+            Converse diretamente com seu tutor através do bloco
+            <strong>Central da Disciplina</strong>.
 
         </div>
 
         <div style="
         background:#f5f7fa;
-        border-left:4px solid #6b7280;
-        border-radius:8px;
-        padding:12px 16px;
+        border:1px solid #e3e7ee;
+        border-radius:14px;
+        padding:16px 18px;
+        margin:16px 0;
         ">
 
-        <strong>🏛️ Precisa de suporte acadêmico ou administrativo?</strong><br>
+            <div style="
+            font-size:16px;
+            font-weight:600;
+            color:#1f2937;
+            margin-bottom:6px;
+            ">
 
-        Entre em contato com o coordenador local da sua instituição através do bloco
-        <strong>Suporte Acadêmico</strong> disponível na disciplina.
+                🏛️ Central de Atendimento EAD
+
+            </div>
+
+            <div style="
+            font-size:14px;
+            line-height:1.6;
+            color:#4b5563;
+            ">
+
+                Se sua dúvida for acadêmica, administrativa ou relacionada ao ambiente virtual, selecione abaixo sua instituição para visualizar os canais oficiais de suporte.
+
+            </div>
 
         </div>
+
+        <iframe
+        src="https://neadnacional.github.io/assets/index.html"
+        width="100%"
+        height="380"
+        style="
+        border:none;
+        border-radius:16px;
+        overflow:hidden;
+        background:white;
+        ">
+        </iframe>
 
         `;
 
