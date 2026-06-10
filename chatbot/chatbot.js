@@ -13,29 +13,35 @@ fetch('conhecimento.json')
 
 });
 
+function normalizarTexto(texto){
+
+    return texto
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .trim();
+
+}
+
 function perguntar(){
 
-    const pergunta = document
+    const perguntaOriginal = document
     .getElementById('pergunta')
-    .value
-    .toLowerCase()
-    .trim();
+    .value;
+
+    const pergunta = normalizarTexto(perguntaOriginal);
 
     if(pergunta === ""){
 
         document.getElementById('resposta').innerHTML = `
-        
         <div style="
         background:#fff8e6;
         border-left:4px solid #ffb300;
         border-radius:8px;
         padding:12px 16px;
         ">
-        
         ⚠️ Digite uma pergunta para continuar.
-        
         </div>
-        
         `;
 
         return;
@@ -46,10 +52,13 @@ function perguntar(){
 
     for(const topico of Object.keys(conhecimento)){
 
-        for(const item of conhecimento[topico].perguntas){
+        for(const palavra of conhecimento[topico].palavras){
+
+            const palavraNormalizada =
+            normalizarTexto(palavra);
 
             if(
-                pergunta.includes(item)
+                pergunta.includes(palavraNormalizada)
             ){
 
                 document.getElementById('resposta').innerHTML =
