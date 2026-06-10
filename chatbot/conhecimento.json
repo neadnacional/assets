@@ -92,4 +92,11 @@
     ],
     "resposta": "Podem realizar a VF alunos com média entre 40 e 59 pontos (IES com média 60) ou entre 50 e 69 pontos (IES com média 70)."
   }
+  
+  "teste": {
+  "perguntas": [
+    "teste"
+  ],
+  "resposta": "<h3>Funcionou!</h3><p>Este é um teste de formatação.</p><p><a href='https://www.youtube.com/watch?v=CaH6_x4uuCk' target='_blank'>Clique aqui para abrir o vídeo</a></p>"
+  }
 }
