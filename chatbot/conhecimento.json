@@ -98,13 +98,20 @@
 
   },
 
-  "teste": {
+ "saudacao": {
+  "perguntas": [
+    "oi",
+    "olá",
+    "ola",
+    "bom dia",
+    "boa tarde",
+    "boa noite",
+    "ajuda",
+    "menu",
+    "o que você faz"
+  ],
+  "resposta": "Olá! Posso ajudar com dúvidas sobre OAT, VA, RCC, Fóruns, Verificação Final, Aulas Síncronas, Cronogramas, Tutor e Suporte Acadêmico."
 
-    "palavras": [
-      "teste"
-    ],
-
-    "resposta": "<h3>Funcionou!</h3><p>Este é um teste de formatação.</p><p><a href='https://www.youtube.com/watch?v=CaH6_x4uuCk' target='_blank'>Clique aqui para abrir o vídeo</a></p>"
 
   }
 
