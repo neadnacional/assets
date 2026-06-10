@@ -1,118 +1,92 @@
 {
   "oat": {
-
     "palavras": [
       "oat",
       "outras atividades"
     ],
-
     "resposta": "<h3>📚 OAT - Outras Atividades</h3><p>As OATs são atividades avaliativas que ajudam a complementar sua nota na disciplina.</p><ul><li><strong>📍 Localização:</strong> Bloco <em>Atividades Avaliativas</em>.</li><li><strong>📝 Quantidade:</strong> 2 OATs em disciplinas de 40h e 3 OATs em disciplinas de 80h.</li><li><strong>📖 Consulta permitida:</strong> Você pode consultar materiais de estudo durante a realização da atividade.</li><li><strong>⏰ Tempo:</strong> Não existe limite de tempo após iniciar a tentativa.</li><li><strong>📅 Prazo:</strong> É necessário respeitar as datas de abertura e encerramento previstas no cronograma.</li></ul><div style='background:#eef5ff;padding:12px;border-left:4px solid #030b79;border-radius:6px;margin:12px 0;'><strong>💡 Dica:</strong><br>Para verificar os prazos de realização, consulte o Cronograma de Atividades Avaliativas da disciplina.</div><p>🎥 <strong>Tutorial:</strong><br><a href='https://www.youtube.com/watch?v=CaH6_x4uuCk' target='_blank'>Clique aqui para assistir ao vídeo explicando como responder OATs e VAs.</a></p>"
-
   },
-
- "va": {
-
-  "palavras": [
-    "va",
-    "verificacao de aprendizagem",
-    "verificação de aprendizagem",
-    "avaliacao",
-    "avaliacao avaliativa",
-    "atividade avaliativa",
-
-    "o que e va",
-    "o que é va",
-    "o que significa va",
-    "como funciona a va",
-
-    "onde fica a va",
-    "onde encontro a va",
-    "onde estao as va",
-    "onde estão as va",
-    "nao encontro a va",
-    "não encontro a va",
-
-    "como acessar a va",
-    "como abrir a va",
-    "como fazer a va",
-    "como responder a va",
-    "como realizar a va",
-
-    "quantas va tem",
-    "quantidade de va",
-    "numero de va",
-    "número de va",
-
-    "quantas va tem em disciplina de 40h",
-    "quantas va tem em disciplina de 80h",
-
-    "a va vale nota",
-    "a va conta nota",
-    "a va vale mais",
-    "peso da va",
-
-    "posso consultar na va",
-    "pode consultar na va",
-    "consulta na va",
-    "e permitido consultar",
-    "é permitido consultar",
-
-    "a va tem tempo",
-    "tempo da va",
-    "cronometro da va",
-    "cronômetro da va",
-    "quantas horas tenho",
-
-    "quantas tentativas tenho",
-    "posso refazer a va",
-    "segunda tentativa da va",
-    "tentativa da va",
-
-    "qual o prazo da va",
-    "quando abre a va",
-    "quando fecha a va",
-    "data da va",
-    "cronograma da va",
-
-    "video da va",
-    "tutorial da va",
-    "como responder va",
-    "video explicando va",
-    "vídeo explicando va"
-  ],
-
-  "resposta": "<h3>📝 VA - Verificação de Aprendizagem</h3><p>As VAs são atividades avaliativas de maior peso na composição da nota da disciplina.</p><ul><li><strong>📍 Localização:</strong> Bloco <em>Atividades Avaliativas</em>.</li><li><strong>📝 Quantidade:</strong> 2 VAs em disciplinas de 40h e 3 VAs em disciplinas de 80h.</li><li><strong>📖 Consulta:</strong> Não é permitido realizar consultas durante a realização da atividade.</li><li><strong>⏰ Tempo:</strong> Após iniciar a tentativa, será iniciado um cronômetro e você terá até 3 horas para concluir a avaliação.</li><li><strong>🎯 Tentativas:</strong> Você possui apenas uma tentativa.</li><li><strong>📅 Prazo:</strong> É necessário respeitar as datas de abertura e encerramento previstas no cronograma.</li></ul><div style='background:#fff8e6;padding:12px;border-left:4px solid #ffb300;border-radius:6px;margin:12px 0;'><strong>⚠️ Atenção:</strong><br>Inicie a VA apenas quando estiver preparado para realizá-la. Certifique-se de que estudou o conteúdo, possui uma conexão estável com a internet e dispõe de tempo suficiente para concluir a atividade.</div><div style='background:#eef5ff;padding:12px;border-left:4px solid #030b79;border-radius:6px;margin:12px 0;'><strong>💡 Dica:</strong><br>Não deixe a realização da VA para a última hora. Para verificar os prazos de realização, consulte o Cronograma de Atividades Avaliativas da disciplina.</div><p>🎥 <strong>Tutorial:</strong><br><a href='https://www.youtube.com/watch?v=CaH6_x4uuCk' target='_blank'>Clique aqui para assistir ao vídeo explicando como responder OATs e VAs.</a></p>"
-
-},
-
+  "va": {
+    "palavras": [
+      "va",
+      "verificacao de aprendizagem",
+      "verificação de aprendizagem",
+      "avaliacao",
+      "avaliacao avaliativa",
+      "atividade avaliativa",
+      "o que e va",
+      "o que é va",
+      "o que significa va",
+      "como funciona a va",
+      "onde fica a va",
+      "onde encontro a va",
+      "onde estao as va",
+      "onde estão as va",
+      "nao encontro a va",
+      "não encontro a va",
+      "como acessar a va",
+      "como abrir a va",
+      "como fazer a va",
+      "como responder a va",
+      "como realizar a va",
+      "quantas va tem",
+      "quantidade de va",
+      "numero de va",
+      "número de va",
+      "quantas va tem em disciplina de 40h",
+      "quantas va tem em disciplina de 80h",
+      "a va vale nota",
+      "a va conta nota",
+      "a va vale mais",
+      "peso da va",
+      "posso consultar na va",
+      "pode consultar na va",
+      "consulta na va",
+      "e permitido consultar",
+      "é permitido consultar",
+      "a va tem tempo",
+      "tempo da va",
+      "cronometro da va",
+      "cronômetro da va",
+      "quantas horas tenho",
+      "quantas tentativas tenho",
+      "posso refazer a va",
+      "segunda tentativa da va",
+      "tentativa da va",
+      "qual o prazo da va",
+      "quando abre a va",
+      "quando fecha a va",
+      "data da va",
+      "cronograma da va",
+      "video da va",
+      "tutorial da va",
+      "como responder va",
+      "video explicando va",
+      "vídeo explicando va"
+    ],
+    "resposta": "<h3>📝 VA - Verificação de Aprendizagem</h3><p>As VAs são atividades avaliativas de maior peso na composição da nota da disciplina.</p><ul><li><strong>📍 Localização:</strong> Bloco <em>Atividades Avaliativas</em>.</li><li><strong>📝 Quantidade:</strong> 2 VAs em disciplinas de 40h e 3 VAs em disciplinas de 80h.</li><li><strong>📖 Consulta:</strong> Não é permitido realizar consultas durante a realização da atividade.</li><li><strong>⏰ Tempo:</strong> Após iniciar a tentativa, será iniciado um cronômetro e você terá até 3 horas para concluir a avaliação.</li><li><strong>🎯 Tentativas:</strong> Você possui apenas uma tentativa.</li><li><strong>📅 Prazo:</strong> É necessário respeitar as datas de abertura e encerramento previstas no cronograma.</li></ul><div style='background:#fff8e6;padding:12px;border-left:4px solid #ffb300;border-radius:6px;margin:12px 0;'><strong>⚠️ Atenção:</strong><br>Inicie a VA apenas quando estiver preparado para realizá-la. Certifique-se de que estudou o conteúdo, possui uma conexão estável com a internet e dispõe de tempo suficiente para concluir a atividade.</div><div style='background:#eef5ff;padding:12px;border-left:4px solid #030b79;border-radius:6px;margin:12px 0;'><strong>💡 Dica:</strong><br>Não deixe a realização da VA para a última hora. Para verificar os prazos de realização, consulte o Cronograma de Atividades Avaliativas da disciplina.</div><p>🎥 <strong>Tutorial:</strong><br><a href='https://www.youtube.com/watch?v=CaH6_x4uuCk' target='_blank'>Clique aqui para assistir ao vídeo explicando como responder OATs e VAs.</a></p>"
+  },
   "vf": {
-
     "palavras": [
       "vf",
       "verificacao final",
       "prova final",
       "exame final"
     ],
-
-    "resposta": "Podem realizar a VF alunos com média entre 40 e 59 pontos (IES com média 60) ou entre 50 e 69 pontos (IES com média 70)."
-
+    "resposta": "<h3>🎓 VF - Verificação Final</h3><p>Podem realizar a VF alunos com média entre 40 e 59 pontos (IES com média 60) ou entre 50 e 69 pontos (IES com média 70).</p>"
   },
-
- "saudacao": {
-  "perguntas": [
-    "oi",
-    "olá",
-    "ola",
-    "bom dia",
-    "boa tarde",
-    "boa noite",
-    "ajuda",
-    "menu",
-    "o que você faz"
-  ],
-  "resposta": "Olá! Posso ajudar com dúvidas sobre OAT, VA, RCC, Fóruns, Verificação Final, Aulas Síncronas, Cronogramas, Tutor e Suporte Acadêmico."
-
-
+  "saudacao": {
+    "palavras": [
+      "oi",
+      "olá",
+      "ola",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "ajuda",
+      "menu",
+      "o que você faz"
+    ],
+    "resposta": "<h3>👋 Olá! Como posso ajudar?</h3><p>Eu sou o Assistente Acadêmico Virtual e posso tirar suas dúvidas sobre:</p><ul><li>OAT (Outras Atividades)</li><li>VA (Verificação de Aprendizagem)</li><li>RCC e Fóruns Avaliativos</li><li>Verificação Final (VF)</li><li>Aulas Síncronas e Cronogramas</li><li>Como falar com o Tutor ou acionar o Suporte Acadêmico</li></ul><p>💡 Digite sua dúvida no campo acima para começar!</p>"
   }
-
 }
