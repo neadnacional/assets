@@ -1,13 +1,81 @@
 
-{
-  "oat": {
-    "perguntas": [
-      "o que é oat",
-      "como fazer oat",
-      "onde fica oat"
-    ],
-    "resposta": "A OAT está disponível no bloco Atividades Avaliativas da disciplina."
-  },
+"oat": {
+
+"perguntas": [
+
+```
+"o que é oat",
+"o que significa oat",
+"outras atividades",
+"atividade oat",
+"como funciona a oat",
+
+"onde fica a oat",
+"onde encontro a oat",
+"onde estão as oat",
+"não encontro a oat",
+"cadê a oat",
+
+"como acessar a oat",
+"como abrir a oat",
+"como fazer a oat",
+"como responder a oat",
+"como realizar a oat",
+
+"quantas oat tem",
+"quantas outras atividades tem",
+"são quantas oat",
+"quantidade de oat",
+"número de oat",
+
+"quantas oat tem na disciplina",
+"quantas oat tem em disciplina de 40h",
+"quantas oat tem em disciplina de 80h",
+"disciplina de 40 horas tem quantas oat",
+"disciplina de 80 horas tem quantas oat",
+
+"a oat vale nota",
+"a oat conta nota",
+"a oat complementa a nota",
+"a oat ajuda na média",
+"a oat influencia a média",
+
+"posso consultar na oat",
+"pode consultar na oat",
+"é permitido consultar",
+"a oat é com consulta",
+"pode usar material na oat",
+
+"a oat tem tempo",
+"quanto tempo tenho para fazer a oat",
+"a oat tem cronômetro",
+"a oat fecha sozinha",
+"tem limite de tempo",
+
+"qual o prazo da oat",
+"quando abre a oat",
+"quando fecha a oat",
+"até quando posso fazer a oat",
+"data da oat",
+
+"cronograma da oat",
+"calendário da oat",
+"datas da oat",
+"prazo de realização da oat",
+"período da oat",
+
+"vídeo explicando a oat",
+"tutorial da oat",
+"como responder oat e va",
+"vídeo da oat"
+```
+
+],
+
+"resposta": "A OAT (Outras Atividades) é uma atividade avaliativa que ajuda a complementar sua nota na disciplina. As OAT estão localizadas no bloco 'Atividades Avaliativas'. Em disciplinas de 40 horas existem 2 OATs. Em disciplinas de 80 horas existem 3 OATs. É permitido realizar consultas durante a resolução das OATs. Não há limite de tempo após o início da atividade, porém é necessário respeitar o prazo de realização previsto no cronograma da disciplina. Para conferir as datas de abertura e encerramento, consulte o Cronograma de Atividades Avaliativas. Para aprender como responder OATs e VAs, assista ao vídeo: https://www.youtube.com/watch?v=CaH6_x4uuCk"
+
+}
+
 
   "va": {
     "perguntas": [
