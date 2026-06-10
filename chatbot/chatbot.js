@@ -34,16 +34,27 @@ function perguntar(){
     let respostaEncontrada = false;
 
     for(const topico of Object.keys(conhecimento)){
-        // Segurança extra caso a estrutura do JSON falhe
         if(!conhecimento[topico].palavras) continue; 
 
         for(const palavra of conhecimento[topico].palavras){
             const palavraNormalizada = normalizarTexto(palavra);
 
-            if(pergunta.includes(palavraNormalizada)){
-                divResposta.innerHTML = conhecimento[topico].resposta;
-                respostaEncontrada = true;
-                break;
+            // SE FOR PALAVRA CURTA (Sem espaços, ex: "va", "oat", "oi"): Usa RegEx para palavra exata
+            if (!palavraNormalizada.includes(' ')) {
+                const regex = new RegExp('\\b' + palavraNormalizada + '\\b', 'i');
+                if(regex.test(pergunta)){
+                    divResposta.innerHTML = conhecimento[topico].resposta;
+                    respostaEncontrada = true;
+                    break;
+                }
+            } 
+            // SE FOR UMA FRASE LONGA (Com espaços, ex: "o que e va"): Mantém o includes original
+            else {
+                if(pergunta.includes(palavraNormalizada)){
+                    divResposta.innerHTML = conhecimento[topico].resposta;
+                    respostaEncontrada = true;
+                    break;
+                }
             }
         }
         if(respostaEncontrada){
@@ -77,6 +88,6 @@ function perguntar(){
     // Limpa o campo e foca nele de novo para facilitar a próxima pergunta
     campoPergunta.value = '';
     
-    // Rolagem suave até a resposta (essencial para telas móveis e acessibilidade)
+    // Rolagem suave até a resposta
     divResposta.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
