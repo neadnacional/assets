@@ -10,17 +10,80 @@
 
   },
 
-  "va": {
+ "va": {
 
-    "palavras": [
-      "va",
-      "verificacao de aprendizagem",
-      "avaliacao"
-    ],
+  "palavras": [
+    "va",
+    "verificacao de aprendizagem",
+    "verificação de aprendizagem",
+    "avaliacao",
+    "avaliacao avaliativa",
+    "atividade avaliativa",
 
-    "resposta": "A VA está disponível no bloco Atividades Avaliativas."
+    "o que e va",
+    "o que é va",
+    "o que significa va",
+    "como funciona a va",
 
-  },
+    "onde fica a va",
+    "onde encontro a va",
+    "onde estao as va",
+    "onde estão as va",
+    "nao encontro a va",
+    "não encontro a va",
+
+    "como acessar a va",
+    "como abrir a va",
+    "como fazer a va",
+    "como responder a va",
+    "como realizar a va",
+
+    "quantas va tem",
+    "quantidade de va",
+    "numero de va",
+    "número de va",
+
+    "quantas va tem em disciplina de 40h",
+    "quantas va tem em disciplina de 80h",
+
+    "a va vale nota",
+    "a va conta nota",
+    "a va vale mais",
+    "peso da va",
+
+    "posso consultar na va",
+    "pode consultar na va",
+    "consulta na va",
+    "e permitido consultar",
+    "é permitido consultar",
+
+    "a va tem tempo",
+    "tempo da va",
+    "cronometro da va",
+    "cronômetro da va",
+    "quantas horas tenho",
+
+    "quantas tentativas tenho",
+    "posso refazer a va",
+    "segunda tentativa da va",
+    "tentativa da va",
+
+    "qual o prazo da va",
+    "quando abre a va",
+    "quando fecha a va",
+    "data da va",
+    "cronograma da va",
+
+    "video da va",
+    "tutorial da va",
+    "como responder va",
+    "video explicando va",
+    "vídeo explicando va"
+  ],
+
+  "resposta": "<h3>📝 VA - Verificação de Aprendizagem</h3><p>As VAs são atividades avaliativas de maior peso na composição da nota da disciplina.</p><ul><li><strong>📍 Localização:</strong> Bloco <em>Atividades Avaliativas</em>.</li><li><strong>📝 Quantidade:</strong> 2 VAs em disciplinas de 40h e 3 VAs em disciplinas de 80h.</li><li><strong>📖 Consulta:</strong> Não é permitido realizar consultas durante a realização da atividade.</li><li><strong>⏰ Tempo:</strong> Após iniciar a tentativa, será iniciado um cronômetro e você terá até 3 horas para concluir a avaliação.</li><li><strong>🎯 Tentativas:</strong> Você possui apenas uma tentativa.</li><li><strong>📅 Prazo:</strong> É necessário respeitar as datas de abertura e encerramento previstas no cronograma.</li></ul><div style='background:#fff8e6;padding:12px;border-left:4px solid #ffb300;border-radius:6px;margin:12px 0;'><strong>⚠️ Atenção:</strong><br>Inicie a VA apenas quando estiver preparado para realizá-la. Certifique-se de que estudou o conteúdo, possui uma conexão estável com a internet e dispõe de tempo suficiente para concluir a atividade.</div><div style='background:#eef5ff;padding:12px;border-left:4px solid #030b79;border-radius:6px;margin:12px 0;'><strong>💡 Dica:</strong><br>Não deixe a realização da VA para a última hora. Para verificar os prazos de realização, consulte o Cronograma de Atividades Avaliativas da disciplina.</div><p>🎥 <strong>Tutorial:</strong><br><a href='https://www.youtube.com/watch?v=CaH6_x4uuCk' target='_blank'>Clique aqui para assistir ao vídeo explicando como responder OATs e VAs.</a></p>"
+
+},
 
   "vf": {
 
