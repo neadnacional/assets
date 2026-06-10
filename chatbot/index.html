@@ -1,5 +1,125 @@
-Caixa de pergunta
-↓
-Botão perguntar
-↓
-Área de resposta
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Assistente Acadêmico</title>
+
+<style>
+
+body{
+
+font-family:Arial, sans-serif;
+
+max-width:800px;
+
+margin:20px auto;
+
+padding:20px;
+
+}
+
+h1{
+
+color:#030b79;
+
+}
+
+#pergunta{
+
+width:100%;
+
+padding:12px;
+
+font-size:16px;
+
+border:1px solid #ccc;
+
+border-radius:8px;
+
+box-sizing:border-box;
+
+}
+
+button{
+
+margin-top:10px;
+
+padding:12px 20px;
+
+background:#030b79;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+cursor:pointer;
+
+}
+
+button:hover{
+
+opacity:0.9;
+
+}
+
+#resposta{
+
+margin-top:20px;
+
+padding:16px;
+
+background:#f5f7ff;
+
+border-left:4px solid #030b79;
+
+border-radius:8px;
+
+min-height:40px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>🎓 Assistente Acadêmico</h1>
+
+<p>
+
+Digite sua dúvida abaixo:
+
+</p>
+
+<input
+type="text"
+id="pergunta"
+placeholder="Ex.: Onde fica a OAT?"
+>
+
+<button onclick="perguntar()">
+
+Perguntar
+
+</button>
+
+<div id="resposta">
+
+Olá! Como posso ajudar?
+
+</div>
+
+<script src="chatbot.js"></script>
+
+</body>
+
+</html>
