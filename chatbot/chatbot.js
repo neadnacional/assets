@@ -104,7 +104,7 @@ function perguntar(){
 
             <strong>📚 Dúvidas sobre o conteúdo da disciplina?</strong><br>
 
-            Converse diretamente com seu tutor através do bloco
+            Converse diretamente com seu tutor. Você encontrará um botão para falar com ele(a) no bloco
             <strong>Central da Disciplina</strong>.
 
         </div>
@@ -124,7 +124,7 @@ function perguntar(){
             margin-bottom:6px;
             ">
 
-                🏛️ Central de Atendimento EAD
+                🏛️ Presisa de outro tipo de suporte?
 
             </div>
 
@@ -134,7 +134,7 @@ function perguntar(){
             color:#4b5563;
             ">
 
-                Se sua dúvida for acadêmica, administrativa ou relacionada ao ambiente virtual, selecione abaixo sua instituição para visualizar os canais oficiais de suporte.
+                Se sua dúvida for acadêmica, administrativa ou relacionada ao ambiente virtual que não encontrou aqui, selecione abaixo sua instituição para visualizar os canais oficiais de suporte.
 
             </div>
 
