@@ -141,7 +141,7 @@ function perguntar(){
         </div>
 
         <iframe
-        src="https://neadnacional.github.io/assets/index.html"
+        src="https://www.wikipedia.org"
         width="100%"
         height="380"
         style="
