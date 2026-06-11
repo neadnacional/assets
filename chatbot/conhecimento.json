@@ -253,5 +253,31 @@
       "planejamento"
     ],
     "resposta": "<h3>📅 Cronograma e Prazos das Atividades</h3><p>O planejamento é a chave para o seu sucesso acadêmico! Manter-se atento às datas evita que você perca prazos importantes e comprometa sua nota.</p><ul><li><strong>📍 Onde encontrar:</strong> Assim que você entra na página principal da sua disciplina, você verá em destaque um <strong>Banner do Cronograma</strong>. Ele contém as datas exatas de início e término de cada atividade avaliativa.</li><li><strong>⚠️ Atenção à sua carga horária:</strong> Fique muito atento, pois as disciplinas de <strong>40h</strong> e as de <strong>80h</strong> possuem quantidades de atividades diferentes e, consequentemente, <strong>calendários e prazos distintos</strong>! Não use o prazo de uma matéria como base para a outra.</li></ul><div style='background:#fff8e6; padding:14px; border-left:4px solid #ffb300; border-radius:8px; margin:16px 0;'><strong>💡 Dica de Sucesso Acadêmico:</strong><br>Acesse o cronograma logo na primeira semana de aulas, anote todas as datas na sua agenda ou celular e programe-se para realizar as atividades (como OATs e VAs) com antecedência. Não deixe para a última hora, pois imprevistos com internet ou energia podem acontecer!</div>"
+  },
+
+  "encontros_sincronos": {
+    "palavras": [
+      "encontro sincrono",
+      "encontro síncrono",
+      "encontros sincronos",
+      "encontros síncronos",
+      "aula sincrona",
+      "aula síncrona",
+      "aulas sincronas",
+      "aulas síncronas",
+      "aula ao vivo",
+      "aulas ao vivo",
+      "google meet",
+      "meet",
+      "link da aula",
+      "gravacao",
+      "gravação",
+      "gravacoes",
+      "gravações",
+      "perdi a aula",
+      "assistir aula gravada",
+      "quando vai ser a aula"
+    ],
+    "resposta": "<h3>🖥️ Encontros Síncronos (Aulas ao Vivo)</h3><p>Os Encontros Síncronos são momentos ao vivo e representam uma excelente oportunidade de interação direta com o seu tutor para aprofundar conteúdos e tirar suas dúvidas em tempo real.</p><ul><li><strong>📍 Localização:</strong> Todas as informações estão centralizadas no bloco chamado <strong>Encontro Síncronos</strong> na página da sua disciplina.</li><li><strong>📅 Quantidade e Datas:</strong> Cada disciplina pode conter até <strong>três encontros síncronos por semestre</strong>. As datas e horários exatos de realização ficam publicados nesse bloco.</li><li><strong>🔗 Como acessar:</strong> O link oficial do <em>Google Meet</em> para entrar na sala virtual será disponibilizado ali antes do início da aula.</li></ul><div style='background:#eef5ff; padding:14px; border-left:4px solid #030b79; border-radius:8px; margin:16px 0;'><strong>🎥 Perdeu o encontro ao vivo ou quer revisar?</strong><br>Não se preocupe! Caso você não possa comparecer no horário marcado ou queira rever a explicação, <strong>as gravações dos encontros já realizados são salvas e disponibilizadas</strong> nesse mesmo bloco para você assistir quando quiser.</div>"
   }
 }
