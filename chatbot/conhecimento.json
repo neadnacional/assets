@@ -199,5 +199,32 @@
       "onde acho as aulas"
     ],
     "resposta": "<h3>📖 Materiais de Estudo</h3><p>O conteúdo base e os recursos didáticos para o seu aprendizado estão organizados de forma centralizada para facilitar sua rotina.</p><ul><li><strong>📍 Localização:</strong> Acesse o bloco chamado <strong>Materiais de Estudo</strong> na página da sua disciplina.</li><li><strong>📚 O que você encontra lá:</strong> Vídeoaulas preparadas pelos professores, as <strong>UAs (Unidades de Aprendizagem)</strong> com os textos teóricos e as leituras indicadas.</li></ul><div style='background:#fff8e6; padding:12px; border-left:4px solid #ffb300; border-radius:6px; margin:12px 0;'><strong>💡 Exercícios de Fixação:</strong><br>Dentro desse bloco você também encontrará listas de exercícios. Eles são ideais para testar seus conhecimentos antes das avaliações oficiais, mas lembre-se: <strong>essas atividades não são avaliativas e não somam pontos na nota final</strong>.</div><p>📌 <em>Nota: Se além de estudar você precisar tirar dúvidas sobre o conteúdo visto ali, o bloco também conta com uma seção fixa para você enviar sua mensagem para a equipe pedagógica.</em></p>"
+  },
+
+  "tutor_suporte": {
+    "palavras": [
+      "tutor",
+      "tutores",
+      "professor",
+      "professores",
+      "falar com o tutor",
+      "falar com meu tutor",
+      "falar com um humano",
+      "falar com humano",
+      "suporte academico",
+      "suporte acadêmico",
+      "coordenador",
+      "coordenador local",
+      "coordenador de polo",
+      "coordenador do polo",
+      "duvidas com professor",
+      "dúvidas com professor",
+      "ajuda pedagógica",
+      "ajuda pedagogica",
+      "enviar mensagem",
+      "falar com alguem",
+      "falar com alguém"
+    ],
+    "resposta": "<h3>👨‍🏫 Atendimento com Tutor e Suporte Acadêmico</h3><p>Para que sua dúvida chegue rapidamente a quem pode ajudar, identifique o tipo de assunto que deseja tratar:</p><div style='background:#eef5ff; padding:14px; border-left:4px solid #030b79; border-radius:8px; margin:16px 0;'><strong>📚 Dúvidas sobre o Conteúdo da Disciplina:</strong><br><br><ul><li><strong>Fórum de Dúvidas (Recomendado):</strong> Localizado dentro do bloco <em>\"Materiais de Estudo\"</em>, este é o melhor canal para expor suas dúvidas, pois as respostas ajudam você e seus colegas ao mesmo tempo.</li><li style='margin-top:8px;'><strong>Mensagem Direta:</strong> Vá até o final do bloco <em>\"Central da Disciplina\"</em>. Logo após a apresentação do seu tutor(a), você verá o botão <strong>Fale com o Tutor(a)</strong>. Clique nele para enviar uma mensagem privada diretamente para ele(a).</li></ul></div><div style='background:#f5f7fa; border:1px solid #e3e7ee; border-radius:14px; padding:16px 18px; margin:16px 0;'><div style='font-size:16px; font-weight:600; color:#1f2937; margin-bottom:6px;'>🏛️ Assuntos Acadêmicos, Administrativos ou Polos:</div><div style='font-size:14px; line-height:1.6; color:#4b5563;'>Se você precisa falar com seu <strong>coordenador local / coordenador de polo</strong> ou resolver questões administrativas, utilize a nossa central por instituição. Selecione a sua IES abaixo para visualizar os contatos oficiais de suporte:</div></div><iframe src='https://neadnacional.github.io/assets/' width='100%' height='380' style='border:none; border-radius:16px; overflow:hidden; background:white;'></iframe>"
   }
 }
