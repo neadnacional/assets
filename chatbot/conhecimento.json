@@ -226,5 +226,32 @@
       "falar com alguém"
     ],
     "resposta": "<h3>👨‍🏫 Atendimento com Tutor e Suporte Acadêmico</h3><p>Para que sua dúvida chegue rapidamente a quem pode ajudar, identifique o tipo de assunto que deseja tratar:</p><div style='background:#eef5ff; padding:14px; border-left:4px solid #030b79; border-radius:8px; margin:16px 0;'><strong>📚 Dúvidas sobre o Conteúdo da Disciplina:</strong><br><br><ul><li><strong>Fórum de Dúvidas (Recomendado):</strong> Localizado dentro do bloco <em>\"Materiais de Estudo\"</em>, este é o melhor canal para expor suas dúvidas, pois as respostas ajudam você e seus colegas ao mesmo tempo.</li><li style='margin-top:8px;'><strong>Mensagem Direta:</strong> Vá até o final do bloco <em>\"Central da Disciplina\"</em>. Logo após a apresentação do seu tutor(a), você verá o botão <strong>Fale com o Tutor(a)</strong>. Clique nele para enviar uma mensagem privada diretamente para ele(a).</li></ul></div><div style='background:#f5f7fa; border:1px solid #e3e7ee; border-radius:14px; padding:16px 18px; margin:16px 0;'><div style='font-size:16px; font-weight:600; color:#1f2937; margin-bottom:6px;'>🏛️ Assuntos Acadêmicos, Administrativos ou Polos:</div><div style='font-size:14px; line-height:1.6; color:#4b5563;'>Se você precisa falar com seu <strong>coordenador local / coordenador de polo</strong> ou resolver questões administrativas, utilize a nossa central por instituição. Selecione a sua IES abaixo para visualizar os contatos oficiais de suporte:</div></div><iframe src='https://neadnacional.github.io/assets/' width='100%' height='380' style='border:none; border-radius:16px; overflow:hidden; background:white;'></iframe>"
+  },
+
+  "cronograma": {
+    "palavras": [
+      "cronograma",
+      "cronogramas",
+      "calendario",
+      "calendário",
+      "calendarios",
+      "calendários",
+      "prazo",
+      "prazos",
+      "data",
+      "datas",
+      "quando comeca",
+      "quando começa",
+      "quando termina",
+      "quando fecha",
+      "quando abre",
+      "periodo",
+      "período",
+      "ate quando",
+      "até quando",
+      "me planejar",
+      "planejamento"
+    ],
+    "resposta": "<h3>📅 Cronograma e Prazos das Atividades</h3><p>O planejamento é a chave para o seu sucesso acadêmico! Manter-se atento às datas evita que você perca prazos importantes e comprometa sua nota.</p><ul><li><strong>📍 Onde encontrar:</strong> Assim que você entra na página principal da sua disciplina, você verá em destaque um <strong>Banner do Cronograma</strong>. Ele contém as datas exatas de início e término de cada atividade avaliativa.</li><li><strong>⚠️ Atenção à sua carga horária:</strong> Fique muito atento, pois as disciplinas de <strong>40h</strong> e as de <strong>80h</strong> possuem quantidades de atividades diferentes e, consequentemente, <strong>calendários e prazos distintos</strong>! Não use o prazo de uma matéria como base para a outra.</li></ul><div style='background:#fff8e6; padding:14px; border-left:4px solid #ffb300; border-radius:8px; margin:16px 0;'><strong>💡 Dica de Sucesso Acadêmico:</strong><br>Acesse o cronograma logo na primeira semana de aulas, anote todas as datas na sua agenda ou celular e programe-se para realizar as atividades (como OATs e VAs) com antecedência. Não deixe para a última hora, pois imprevistos com internet ou energia podem acontecer!</div>"
   }
 }
