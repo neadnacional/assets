@@ -139,5 +139,34 @@
       "o que você faz"
     ],
     "resposta": "<h3>👋 Olá! Como posso ajudar?</h3><p>Eu sou o Assistente Acadêmico Virtual e posso tirar suas dúvidas sobre:</p><ul><li>OAT (Outras Atividades)</li><li>VA (Verificação de Aprendizagem)</li><li>RCC e Fóruns Avaliativos</li><li>Verificação Final (VF)</li><li>Aulas Síncronas e Cronogramas</li><li>Como falar com o Tutor ou acionar o Suporte Acadêmico</li></ul><p>💡 Digite sua dúvida no campo acima para começar!</p>"
+  },
+
+  "notas": {
+    "palavras": [
+      "nota",
+      "notas",
+      "minha nota",
+      "minhas notas",
+      "como ver a nota",
+      "como ver as notas",
+      "como consultar minha nota",
+      "onde vejo minha nota",
+      "quanto tirei",
+      "quanto que tirei",
+      "tirei na va",
+      "tirei na oat",
+      "nota do forum",
+      "nota do fórum",
+      "quando sai a nota",
+      "revisao",
+      "revisão",
+      "revisar prova",
+      "revisar atividade",
+      "ver o que errei",
+      "video de notas",
+      "vídeo de notas",
+      "tutorial de notas"
+    ],
+    "resposta": "<h3>📊 Consulta de Notas e Revisão</h3><p>Para acompanhar o seu desempenho na disciplina, existem caminhos simples para visualizar suas notas e entender seus erros.</p><ul><li><strong>📍 Como consultar as notas:</strong> No menu lateral esquerdo do Moodle, acesse a aba <strong>Notas</strong>. Nessa página, você conseguirá ver todas as pontuações obtidas nas avaliações realizadas até o momento.</li><li><strong>📝 Como fazer a revisão (OAT e VA):</strong> Clique diretamente na atividade que você deseja revisar. Vá até o final da página e clique no botão <strong>Revisão</strong> para visualizar suas marcações.</li></ul><div style='background:#fff8e6; padding:12px; border-left:4px solid #ffb300; border-radius:6px; margin:12px 0;'><strong>⚠️ Regras Importantes:</strong><br><br><ul><li><strong>Prazo de Revisão:</strong> A visualização detalhada das questões (revisão) só fica disponível <strong>após o encerramento definitivo do prazo</strong> de realização daquela atividade no cronograma.</li><li style='margin-top:8px;'><strong>Notas do Fórum:</strong> Diferente das provas objetivas, a nota do Fórum Avaliativo não aparece na hora. Ela depende de uma <strong>correção manual feita pelo seu tutor</strong>, portanto, pode levar alguns dias após o encerramento do fórum para ser lançada.</li></ul></div><p>🎥 <strong>Tutorial em vídeo:</strong><br>O vídeo abaixo mostra exatamente onde clicar na tela para consultar suas notas e como abrir a tela de revisão:<br><a href='https://www.youtube.com/watch?v=70vyMSnHPlU' target='_blank'>Clique aqui para assistir ao vídeo explicativo sobre Notas e Revisões.</a></p>"
   }
 }
