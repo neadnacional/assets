@@ -297,7 +297,7 @@
       "quero cafe",
       "quero café"
     ],
-    "resposta": "<h3>☕ Alerta de Cafeína!</h3><p>Estudando até tarde, né? Pegue sua caneca, dê uma pausa de 5 minutos para esticar as pernas e volte com tudo!</p><p><em>\"O café ajuda quem estuda, mas quem estuda e tira 100 na VA merece um café gourmet.\"</em> ☕✨</p>"
+    "resposta": "<h3>☕ Processamento de Dados Ativado</h3><p>Dizem que um estudante universitário é apenas um organismo biológico complexo capaz de transformar café em notas altas no Moodle.</p><p>O combustível preto já está na caneca? Excelente! Agora insira esse insumo no seu sistema, ative o foco e vamos converter essa cafeína em um belíssimo 100 nas <strong>Atividades Avaliativas</strong>. O seu tutor acredita no seu potencial (e no do café)! 🧠📊</p>"
   },
 
   "easter_egg_ia": {
@@ -310,7 +310,7 @@
       "robo",
       "robô"
     ],
-    "resposta": "<h3>🤖 Eu, Robô?</h3><p>Fique tranquilo(a), eu não pretendo dominar o mundo (pelo menos não até o final deste semestre).</p><p>Minha única missão secreta atual é ajudar você a encontrar os prazos no Moodle para você não zerar por atraso! 🫡</p>"
+    "resposta": "<h3>🤖 Eu, Robô?</h3><p>Fique tranquilo(a), eu não pretendo dominar o mundo (pelo menos não até o final deste semestre).</p><p>Minha única missão secreta atual é ajudar você a encontrar as principais informações aqui no Moodle! 🫡</p>"
   },
 
   "easter_egg_segredo": {
@@ -320,7 +320,7 @@
       "cheat code",
       "konami code"
     ],
-    "resposta": "<h3>🎮 Modo Gamer Ativado!</h3><p>⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️  B A</p><p>Parabéns, você descobriu um segredo! Infelizmente, este código não libera vidas infinitas na sua Verificação Final (VF). O único macete para passar de fase aqui é falar com o seu Tutor! 🎯</p>"
+    "resposta": "<h3>🎮 Modo Gamer Ativado!</h3><p>⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️  B A</p><p>Parabéns, você descobriu um segredo! Infelizmente, este código não libera vidas infinitas na sua Verificação Final (VF). O único macete para passar de fase aqui é estudando bastante! 🎯</p>"
   },
 
   "easter_egg_elogio": {
@@ -332,7 +332,7 @@
       "linda",
       "perfeito"
     ],
-    "resposta": "<h3>🥰 Ah, assim eu fico tímido(a)!</h3><p>Muito obrigado pelo carinho! Fico muito feliz em ajudar na sua jornada acadêmica.</p><p>Se quiser me retribuir, tire um notão na próxima OAT, fechado? 💪</p>"
+    "resposta": "<h3>🥰 Ah, assim eu fico tímido(a)!</h3><p>Muito obrigado pelo carinho! Fico muito feliz em ajudar na sua jornada acadêmica.</p><p>Se quiser me retribuir, tire um notão na próxima VA, fechado? 💪</p>"
   },
 
   "easter_egg_six_seven": {
@@ -343,7 +343,7 @@
       "sixseven",
       "6seven"
     ],
-    "resposta": "<h3>🗣️ SIX! SEVEN! YEAH! 🎶</h3><p><em>\"Oôôh... Six, seven... My system is breakdown!\"</em> 🫨🎤</p><p>Calma, jovem! O meu sistema <strong>não</strong> está em <em>breakdown</em> e eu não vou travar igual ao meme. Estou online, funcionando 100% e pronto para te ajudar a não deixar sua nota cair no esquecimento!</p><p>Agora que você já testou meu inglês, que tal dar uma olhada no <strong>Cronograma</strong> para ver quando fecha a próxima atividade? 📅"
+    "resposta": "<h3>🏀 SIX-SEVEN! 👐🏀</h3><p>Olha só, temos alguém que está por dentro dos memes! O meu sistema não tem 6 pés e 7 polegadas de altura igual ao <strong>LaMelo Ball</strong>, mas posso ajudar a você a alcançar outros objetivos!</p><p>Se a sua rotina de estudos anda meio <em>\"six-seven\"</em>, está na hora de armar uma jogada melhor. Drible as distrações das redes sociais e foque nos <strong>Materiais de Estudo</strong>! Não vamos nos contentar apenas com 67! Vamos buscar logo o 100 em todas as atividades? 🏆🔥</p>"
   },
 
   "easter_egg_procrastinar": {
@@ -357,7 +357,7 @@
       "amanha eu estudo",
       "amanhã eu estudo"
     ],
-    "resposta": "<h3>👀 Te peguei no flagra!</h3><p><em>\"Não deixe para amanhã o que você pode estudar hoje.\"</em> — Provérbio do Estudante EAD Nota 100.</p><p>Procrastinar é maravilhoso até bater o desespero de um cronômetro de 3 horas rodando na sua VA. Que tal fechar a aba das redes sociais e fazer pelo menos uma <strong>Unidade de Aprendizagem (UA)</strong> agora? Só uma, vai! 🫡</p>"
+    "resposta": "<h3>👀 Te peguei no flagra!</h3><p><em>\"Não deixe para amanhã o que você pode estudar hoje.\"</em> — Provérbio do Estudante EAD Nota 100.</p><p>Procrastinar é maravilhoso até bater o desespero de um cronômetro de 3 horas rodando na sua VA. Que tal fechar a aba das redes sociais e estudar pelo menos uma <strong>Unidade de Aprendizagem (UA)</strong> agora? Só uma, vai! 🫡</p>"
   },
 
   "easter_egg_inteligencia": {
@@ -383,7 +383,7 @@
       "chora",
       "chorando"
     ],
-    "resposta": "<h3>olho_no_olho 👋 Calma, respira fundo!</h3><p>Ninguém vai reprovar antes do tempo! O desespero é o pior inimigo do estudante.</p><p>Se a situação estiver apertada, lembre-se do plano de ação: <br>1️⃣ Abra o <strong>Cronograma</strong> para ver o que ainda dá tempo de fazer.<br>2️⃣ Use a <strong>VF (Verificação Final)</strong> se precisar recuperar nota.<br>3️⃣ Chame seu <strong>Tutor</strong> no botão de mensagem para pedir um norte nos estudos. Você não está sozinho(a) nessa! 🚀</p>"
+    "resposta": "<h3>🛑 Nada de desespero!</h3><p>Guardar o choro e abrir o Moodle é o primeiro passo para virar o jogo.</p><p>Acesse o <strong>Cronograma</strong> para ver o que está aberto, use os <strong>Materiais de Estudo</strong> e acione o seu <strong>Tutor</strong> caso precise de um norte pedagógico. Foco na meta! 💪"
   },
 
   "easter_egg_sorte": {
@@ -394,7 +394,7 @@
       "sorte",
       "deus me ajuda"
     ],
-    "resposta": "<h3>🎲 O famoso \"Chute Consciente\"?</h3><p>Contar com a sorte na VA é esportismo radical demais, não acha? O Moodle não tem gerador de sorte embutido.</p><p>Em vez de torcer para o universo alinhar as alternativas A, B, C ou D, que tal assistir à gravação do último <strong>Encontro Síncrono</strong>? Garanto que dá mais resultado do que jogar moeda para cima! 🪙📉</p>"
+    "resposta": "<h3>🎲 O famoso \"Chute Consciente\"?</h3><p>Contar com a sorte na VA é esportismo radical demais, não acha? O Moodle não tem gerador de sorte embutido.</p><p>Em vez de torcer para o universo alinhar as alternativas A, B, C ou D, que tal estudar um pouco mais? Garanto que dá mais resultado do que jogar moeda para cima! 🪙📉</p>"
   },
 
   "easter_egg_oraculo": {
@@ -404,6 +404,6 @@
       "me diga o futuro",
       "vou passar"
     ],
-    "resposta": "<h3>🔮 Consultando as Forças Ocultas do Moodle...</h3><p>Vejo em minha bola de cristal virtual... uma barra de progresso ficando 100% verde! 🟩</p><p>Mas espere, as cartas dizem que esse futuro glorioso só vai acontecer se você cumprir os prazos das <strong>OATs</strong> e das <strong>VAs</strong>. O seu destino acadêmico está nas suas mãos (e nos seus cliques)! 🧙‍♂️✨</p>"
+    "resposta": "<h3>🔮 Consultando as Forças Ocultas do Moodle...</h3><p>Vejo em minha bola de cristal virtual... uma barra de progresso ficando 100% verde! 🟩</p><p>Mas espere, as cartas dizem que esse futuro glorioso só vai acontecer se você cumprir os prazos das <strong>Atividades Avaliativas</strong>. O seu destino acadêmico está nas suas mãos (e nos seus cliques)! 🧙‍♂️✨</p>"
   }
 }
